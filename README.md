@@ -6,4 +6,6 @@ this was my daily machine from 2024 to a 2026, u could watch 720p 60fps videos o
 
 i hope someone will like this repo. 
 
-ty
+also i made a cool gadget for it as a build in raspberry pi spi programmer, its useful for flashing stuff. thinking abt adding a support for a 1.8v chips cus u can only flash 3.3v with this setup.
+
+in the next days i will make a documented usb c charging mod....... im sooo exited for that.
