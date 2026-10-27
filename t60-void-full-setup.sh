@@ -1,13 +1,4 @@
-#!/usr/bin/env bash
-# t60-void-i3-setup.sh
-# Automatický setup i3 desktopu (picom + dunst + OSD) pro FrankenPad T60 na Void Linuxu.
-# Spustit jako normální user (NE root) - sudo se použije interně kde je potřeba.
-#
-#   chmod +x t60-void-i3-setup.sh
-#   ./t60-void-i3-setup.sh
-#
-# Re-run je bezpečný (idempotentní), ale přepíše dotfiles, které od minula
-# ručně upravíš - pokud si na configu něco doladíš, zálohuj si to zvlášť.
+#!/usr/bin/e
 
 set -euo pipefail
 
