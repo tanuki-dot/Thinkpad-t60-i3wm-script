@@ -40,4 +40,4 @@ I also built a small Raspberry Pi-based SPI programmer as a handy gadget for fla
 
 ## Final thoughts
 
-I hope someone enjoys this project or finds it useful. It’s a little rough around the edges, but it works and was made for a real machine with real use in mind.
+I hope someone enjoys this project or finds it useful.
