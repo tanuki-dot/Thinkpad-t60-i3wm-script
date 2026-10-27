@@ -1,5 +1,6 @@
 Hi this a setup script for my thinkpad t60 (yea its build by ai but it works), it setups a picom, i3wm, thinkpads hotkeys and a basic alsa sound but
 watch out bluetooth sound still dosent works i add that in later days. 
+
 ![Machine](https://img.shields.io/badge/ThinkPad-T60-black)
 ![Status](https://img.shields.io/badge/status-partial-working)
 
